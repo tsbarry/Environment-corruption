@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # Environment-Corruption 
 
 # Summary
@@ -30,5 +29,3 @@ In this graph the realtionshp between corruption rank and air health shows that 
 # Next Action
 The next action I can take is to look into the relationship between corruption and life expentancy, or a country democracy, aslo corruption and the country annual income or economic development. 
 
-=======
->>>>>>> 6658c63efef9f3f9cde3224b0211d6d25bf72904
