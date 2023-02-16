@@ -1,5 +1,5 @@
-# Environment-Corruption 
 
+# Environment-Corruption 
 
 # Summary
 Created a pipeline that analyses the Environmental Performance Index (EPI) and the Corruption Index (CI) of nations in the subregion of Western Africa. To start I used sqlalchemy, created an engine to connect to postgresql and psycopg2 and to the epi database. After, I querried the database in order to be able to request the data from the epi_country table, then created a pandas DataFrame to save the epi_country table. Furthermore, I filtered epi data to get data for the geographical subregion of Western Africa. For the corruption index, read the csv file into pandas dataframe, then drop null values however, there were no null values which is good for our analysis. Using the CI dataframe, create a table in SQL using df.to_sql method. Now that I have both the EPI and CI dataframe I did a left join on country. Lastly, create visualizations to show relationship between the columns in the epi and ci tables. 
@@ -28,3 +28,4 @@ In this graph the realtionshp between corruption rank and air health shows that 
 
 # Next Action
 The next action I can take is to look into the relationship between corruption and life expentancy, or a country democracy, aslo corruption and the country annual income or economic development. 
+
