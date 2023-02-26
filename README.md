@@ -29,3 +29,7 @@ In this graph the realtionshp between corruption rank and air health shows that 
 # Next Action
 The next action I can take is to look into the relationship between corruption and life expentancy, or a country democracy, aslo corruption and the country annual income or economic development. 
 
+
+# Part 2
+
+Using tableau I ploted envirornment health from the epi metric and created a map and after analysing many of the nations around the globe in comparison to the western region, the west african nations have some of the lowest environemntal health, with niger having the lowest of 0.06. In addition using other metrics from epi and corruption index I made a scotter plot and comparing the average rank to the average water and air health i get a negative correaltion which mean the higher your corruption raking the worst your air and water health. On the other hand I got a positive correlation with a r square of 0.35 and 0.29 therefore the higher the score the higher the water and air health. 
